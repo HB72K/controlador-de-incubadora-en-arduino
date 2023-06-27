@@ -1,5 +1,5 @@
 
-#include <LiquidCrystal_I2C.h>
+#include <LiquidCrystal.h>
 #include <RTClib.h>
 #include <EEPROM.h>
 #include <DHT.h>
